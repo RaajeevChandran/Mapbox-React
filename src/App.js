@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import axios from "axios";
 
-import { coordinates } from './patch/country_coordinates'
-import Legend from "./components/Legend";
-import Map from "./components/Map";
+import { coordinates } from './country_coordinates'
+import Legend from "./Legend";
+import Map from "./Map";
 
 import "./App.css";
 
